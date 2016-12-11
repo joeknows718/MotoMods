@@ -1,0 +1,18 @@
+{
+  "data" : [ {
+    "Temp" : "75",
+    "Region" : "USA"
+  }, {
+    "Temp" : "79",
+    "Region" : "USA"
+  }, {
+    "Temp" : "62",
+    "Region" : "Canada"
+  }, {
+    "Temp" : "73",
+    "Region" : "USA"
+  }, {
+    "Temp" : "69",
+    "Region" : "USA"
+  }]
+}
